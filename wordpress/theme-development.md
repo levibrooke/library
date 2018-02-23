@@ -1,7 +1,7 @@
 # Template Development
 
-Wordpress Codex - https://codex.wordpress.org/Theme_Development
-Theme handbook - https://developer.wordpress.org/themes/getting-started/
+[Wordpress Codex](https://codex.wordpress.org/Theme_Development)
+[Theme handbook](https://developer.wordpress.org/themes/getting-started/)
 
 ## Using featured images / post thumbnails
 

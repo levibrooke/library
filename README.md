@@ -4,3 +4,5 @@ I've been looking for a long time for an organized and simple way to save articl
 And it's all thanks to @helenvholmes. You can check out her [library](https://github.com/helenvholmes/library) which served as the inspiration for all of this.
 
 *Feel free to use the idea for yourself or fork this repo.*
+
+# Table of Contents
