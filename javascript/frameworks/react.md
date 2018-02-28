@@ -6,3 +6,10 @@
 [React cheatsheet](https://reactcheatsheet.com/)
 [React Patterns](https://reactpatterns.com/)
 
+
+## Building Modals
+
+https://medium.com/@danparkk/react-modals-scalable-customizable-neat-components-f2088d60f3d3
+https://codersmind.com/scalable-modals-react-redux/
+https://daveceddia.com/open-modal-in-react/
+https://eddyerburgh.me/toggle-visibility-with-react
