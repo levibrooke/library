@@ -6,6 +6,9 @@
 [React cheatsheet](https://reactcheatsheet.com/)
 [React Patterns](https://reactpatterns.com/)
 
+## React Router
+https://css-tricks.com/react-router-4/
+[Programmatically navigate with React Router](https://tylermcginnis.com/react-router-programmatically-navigate/)
 
 ## Building Modals
 
@@ -13,3 +16,8 @@ https://medium.com/@danparkk/react-modals-scalable-customizable-neat-components-
 https://codersmind.com/scalable-modals-react-redux/
 https://daveceddia.com/open-modal-in-react/
 https://eddyerburgh.me/toggle-visibility-with-react
+
+## Login / Logout
+https://serverless-stack.com/chapters/redirect-on-login-and-logout.html
+https://codepen.io/bradwestfall/project/editor/XWNWge?preview_height=50&open_file=src/app.js
+[Youtube video](https://www.youtube.com/watch?v=HuPTBtEa-qk)
